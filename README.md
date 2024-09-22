@@ -1,4 +1,4 @@
-# Crowdfunding-Project-in-solidity.
+# Crowdfunding-Project-in-solidity
 
 - Developed and deployed a crowdfunding smart contract on Ethereum to enable secure fundraising. Designed features for managing contributions, setting goals, and handling refunds. 
 - Additionally, created a user-friendly web interface for seamless interaction and campaign tracking, ensuring transparency and efficient fund management throughout the campaign.
